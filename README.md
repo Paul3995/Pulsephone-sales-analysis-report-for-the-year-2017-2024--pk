@@ -79,4 +79,4 @@ This report analyses Pulsephone's sales data from 2017 to 2024, identifying whic
 ## About
 
 **Period:** 2017–2024  
-**Author:** Paul Toluwase
+**Author:** [@Paul3995](https://github.com/Paul3995)
